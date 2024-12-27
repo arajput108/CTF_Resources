@@ -16,4 +16,6 @@
 6.)  Cryptopals=  A CTF platform focused on Crypto by Thomas Ptacek, Sean Devlin, Alex Balducci and Marcin Wielgoszewski
                   ( https://cryptopals.com/ )
 
-7.) CTF Tools= 
+7.) CTF Tools= ( https://github.com/arajput108/CTF_Resources/blob/main/CTF%20Tools.xlsx )
+
+
