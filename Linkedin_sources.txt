@@ -1,0 +1,19 @@
+1.) HTB Artcile= https://www.hackthebox.com/blog/what-is-ctf
+    CTF Field Guide= https://trailofbits.github.io/ctf/
+
+2.) Getting Into CTFs As a Web Developer= https://erichogue.ca/2022/03/GettingIntoCTFsAsADev
+
+3.) Reading writeups is really helpful to understand the mindset behind CTF challenges = https://csbygb.gitbook.io/pentips/writeups/htbtracks
+
+4.) Amazing collaborative repository on github with plenty of writeups:= https://github.com/ctfs
+
+5.) Platfroms= PicoCTF( https://picoctf.org/ )
+               TryHackMe( https://tryhackme.com/r/dashboard )
+               HackTheBox( https://www.hackthebox.com/ )
+               Ringzer0CTF (https://ringzer0ctf.com/challenges )
+               RootMe( https://www.root-me.org/?lang=en )
+
+6.)  Cryptopals=  A CTF platform focused on Crypto by Thomas Ptacek, Sean Devlin, Alex Balducci and Marcin Wielgoszewski
+                  ( https://cryptopals.com/ )
+
+7.) CTF Tools= 
